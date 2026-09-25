@@ -1,0 +1,9 @@
+# HOUSEin - realitní kancelář
+
+> Nabídky nemovitostí kanceláře HOUSEin - realitní kancelář.
+
+- Web: https://www.housein.cz/
+
+## Nabídky (2)
+- Prodej bytu 2+kk 49 m² — Břevnov, 8 700 000 Kč: prodej-bytu-2-kk-49-m2-1348915276/
+- Prodej rodinného domu 201 m², pozemek 512 m² — Bohouňovice II, 3 900 000 Kč: prodej-rodinneho-domu-201-m2-pozemek-512-m2-2059223884/
